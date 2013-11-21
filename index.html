@@ -1,17 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Bootswatch: Flatly</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="./css/bootstrap.css" media="screen">
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="../bower_components/bootstrap/assets/js/html5shiv.js"></script>
-      <script src="../bower_components/bootstrap/assets/js/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-<html>
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+    <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a href="/" class="newer">Newer</a>
+    {% else %}
+      <a href="/page{{paginator.previous_page}}" class="newer">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="previous">Newer</span>
+  {% endif %}
+</div>

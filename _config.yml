@@ -1,5 +1,10 @@
-name:      Public Innovation's Blog
-baseurl:   /blog
-markdown:  rdiscount
-permalink: pretty
-pygments:  true
+title:        Hyde
+tagline:      "Hyde, a Jekyll theme"
+url:          http://andhyde.com
+author:
+  name:       ""
+  email:      ""
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
