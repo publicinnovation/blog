@@ -1,6 +1,6 @@
 title:        Hyde
 tagline:      "Hyde, a Jekyll theme"
-url:          http://andhyde.com
+baseurl:	  /blog
 author:
   name:       ""
   email:      ""
