@@ -1,6 +1,7 @@
-title:        Hyde
-tagline:      "Hyde, a Jekyll theme"
-
+title:        civic + interaction
+tagline:      a blog by Public Innovation
+url:          http://blog.publicinnovation.org
+baseurl:      /blog
 author:
   name:       ""
   email:      ""
