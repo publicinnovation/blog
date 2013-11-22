@@ -9,15 +9,18 @@ h1, h2, h3, h4, h5, h6 {
   color: #00aeef;
 }
 
-h4 {
-  margin-bottom: 64px;
-  color: #fff;
-}
-
 .masthead {
 	background-color: #00aeef;
 }
+.masthead h4 {
+    margin-bottom: 32px;
+    color: #fff;
+  }
 
 a {
 	color: #00aeef;
+}
+a:hover {
+  	text-decoration: none;
+  	color: #000;
 }
