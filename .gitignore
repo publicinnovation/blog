@@ -1,6 +1,7 @@
 # Jekyll & GH-pages #
 _site
 _gh_pages
+_drafts
 
 # Compiled source #
 *.com

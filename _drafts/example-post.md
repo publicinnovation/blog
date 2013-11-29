@@ -40,7 +40,3 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
------
-
-Want to see something else added? <a href="https://github.com/mdo/hyde/issues/new">Open an issue.</a>
