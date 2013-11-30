@@ -3,16 +3,22 @@ body {
   font-size: 1.3em;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-family: "quatro-slab", sans-serif;
   font-size: 2em;
   color: #00aeef;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "quatro-slab", sans-serif;
+  color: #959595;
 }
 
 .masthead {
 	background-color: #00aeef;
 }
 .masthead h4 {
+    font-size: 2em;
     margin-bottom: 32px;
     color: #fff;
   }
