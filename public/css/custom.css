@@ -24,3 +24,9 @@ a:hover {
   	text-decoration: none;
   	color: #000;
 }
+
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
