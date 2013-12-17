@@ -8,4 +8,4 @@ Last Monday, California Forward, Hornets Policy & Politics Alumni, the Sacrament
 
 We caught up with Ted, who's soon retiring as City Manager for the City of Rancho Cordova to ask him about the importance of culture in driving change. This is what he had to say:
 
-<iframe src="//player.vimeo.com/video/82074614?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/82074614?title=0&amp;byline=0&amp;portrait=0" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
