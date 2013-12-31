@@ -1,32 +1,46 @@
 ---
 layout: post
-title: Best Videos of 2013
+title: Our Favorite Civic Innovation Videos from 2013
 author: Ash Roughani
 ---
 
+At Public Innovation, we're passionate about video as a medium for telling stories. While we would've loved to produce much more content this year, bootrapping doesn't exactly avail itself to the time intensive process of shooting and editing high quality video. But, luckily, there were some great videos this year that offer an assortment of lessons and inspiration for anyone working in the civic innovation space.
 
+Here are our Top 12 in no particular order:
 
-<iframe src="//player.vimeo.com/video/79899786?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/79899786">Simon Sinek: Why Leaders Eat Last</a> from <a href="http://vimeo.com/99u">99U</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+## Brad Feld at The LAB Miami
+<iframe src="//player.vimeo.com/video/65197230?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/65197230" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/65197230">Brad Feld at The LAB Miami</a> from <a href="http://vimeo.com/knightfdn">Knight Foundation</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+## Jennifer Bradley: A Sharing Economy That Serves All
+<iframe width="560" height="315" src="//www.youtube.com/embed/WpzSewvyTi4?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/52256863?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/52256863">Alexis Madrigal: Why Startups Need To Solve Real Problems Again</a> from <a href="http://vimeo.com/99u">99U</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+## Alexis Madrigal: Why Startups Need To Solve Real Problems Again
+<iframe src="//player.vimeo.com/video/52256863?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/3bK9B8_0FDQ?rel=0" frameborder="0" allowfullscreen></iframe>
+## Mike Bracken's Keynote at the 2013 Code for America Summit
+<iframe width="560" height="315" src="//www.youtube.com/embed/3bK9B8_0FDQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-http://youtu.be/RYNH448NnX8
+## Eric Ries: State of the Lean Startup
+<iframe width="560" height="315" src="//www.youtube.com/embed/RYNH448NnX8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/77911159?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Rafa Galeano: What is Innovation?
+<iframe src="//player.vimeo.com/video/77911159?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Tony Hsieh: The City as the Start-Up
+<iframe src="//player.vimeo.com/video/60681262?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/60681262?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## The Metropolitan Revolution: Where is Power in America?
+<iframe width="560" height="315" src="//www.youtube.com/embed/hkzmqDAfaf8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/71053793?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Code for the Future
+<iframe src="//player.vimeo.com/video/71053793?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/67693440?title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Code for Sacramento: How Civic Hacking Helps Our Cities
+<iframe src="//player.vimeo.com/video/67693440?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/hCuNWIDN9zg?rel=0" frameborder="0" allowfullscreen></iframe>
+## Simon Sinek: Why Leaders Eat Last
+<iframe src="//player.vimeo.com/video/79899786?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Bonus Video: Scratching the Sky
+<iframe src="//player.vimeo.com/video/62739266?title=0&amp;byline=0&amp;portrait=0" width="500" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-
-<iframe src="//player.vimeo.com/video/62739266" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/62739266">SCRATCHING THE SKY</a> from <a href="http://vimeo.com/user8958037">BABYLON FREEFLY</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
