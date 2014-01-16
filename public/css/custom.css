@@ -1,6 +1,11 @@
 body {
   font-family: "proxima-nova", sans-serif;
   font-size: 1.3em;
+  color: #959595;
+}
+
+li {
+  color: #959595;
 }
 
 h1 {
